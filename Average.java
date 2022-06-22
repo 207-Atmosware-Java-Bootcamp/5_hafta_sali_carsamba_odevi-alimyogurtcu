@@ -16,7 +16,7 @@ public class Average {
 			System.out.println("Kaldi");
 		else if (average == 50)
 			System.out.println("Gecti");
-		else if (average >= 55 && average <= 70)
+		else if (average >= 51 && average <= 70)
 			System.out.println("BB");
 		else if (average >= 71 && average <= 84)
 			System.out.println("BA");
